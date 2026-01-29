@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React_project1/static/css/main.67c0c76e.css",
-    "main.js": "/React_project1/static/js/main.beab330b.js",
-    "static/media/bootstrap-icons.woff?": "/React_project1/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
-    "static/media/bootstrap-icons.woff2?": "/React_project1/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
-    "static/media/about.jpg": "/React_project1/static/media/about.34742c406645c386b134.jpg",
-    "static/media/carousel-1.jpg": "/React_project1/static/media/carousel-1.1297b20051c65b561db7.jpg",
-    "static/media/carousel-2.jpg": "/React_project1/static/media/carousel-2.335bdd28bfa9505b60a8.jpg",
-    "static/media/call-to-action.jpg": "/React_project1/static/media/call-to-action.4e006c4961dbce1f56cf.jpg",
-    "static/media/team-1.jpg": "/React_project1/static/media/team-1.659ee7bb67b1bdfc7ccb.jpg",
-    "index.html": "/React_project1/index.html",
-    "main.67c0c76e.css.map": "/React_project1/static/css/main.67c0c76e.css.map",
-    "main.beab330b.js.map": "/React_project1/static/js/main.beab330b.js.map"
+    "main.css": "/Reactproject1/static/css/main.60824006.css",
+    "main.js": "/Reactproject1/static/js/main.253d3a7c.js",
+    "static/media/bootstrap-icons.woff?": "/Reactproject1/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/Reactproject1/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/about.jpg": "/Reactproject1/static/media/about.34742c406645c386b134.jpg",
+    "static/media/carousel-1.jpg": "/Reactproject1/static/media/carousel-1.1297b20051c65b561db7.jpg",
+    "static/media/carousel-2.jpg": "/Reactproject1/static/media/carousel-2.335bdd28bfa9505b60a8.jpg",
+    "static/media/call-to-action.jpg": "/Reactproject1/static/media/call-to-action.4e006c4961dbce1f56cf.jpg",
+    "static/media/team-1.jpg": "/Reactproject1/static/media/team-1.659ee7bb67b1bdfc7ccb.jpg",
+    "index.html": "/Reactproject1/index.html",
+    "main.60824006.css.map": "/Reactproject1/static/css/main.60824006.css.map",
+    "main.253d3a7c.js.map": "/Reactproject1/static/js/main.253d3a7c.js.map"
   },
   "entrypoints": [
-    "static/css/main.67c0c76e.css",
-    "static/js/main.beab330b.js"
+    "static/css/main.60824006.css",
+    "static/js/main.253d3a7c.js"
   ]
 }
