@@ -42,12 +42,10 @@ const testimonial=()=>{
     return(
         <>
 
-        {/* HERO SECTION */}
       <div className="container-fluid bg-light p-0">
         <div className="container-fluid hero-container">
           <div className="row g-0 align-items-stretch">
 
-            {/* LEFT CONTENT */}
             <div className="col-lg-6 d-flex flex-column justify-content-center px-5">
               <h1 className="fw-bold mb-2">Testimonial</h1>
 
@@ -60,7 +58,6 @@ const testimonial=()=>{
               </nav>
             </div>
 
-            {/* RIGHT IMAGE – NO GAPS */}
             <div className="col-lg-6">
               <img
                 src={house1}
@@ -74,7 +71,6 @@ const testimonial=()=>{
         </div>
       </div>
 
-      {/* SEARCH BAR */}
       <div className="container-fluid bg-success py-4">
         <div className="container">
           <div className="row g-2">

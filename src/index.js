@@ -14,10 +14,10 @@ import About from "./pages/About";
 export default function App()
 {
   return(
-    <BrowserRouter>
+    <BrowserRouter basename="/Reactproject1">
     <Routes>
       <Route element={<Layout/>}>
-         <Route index element={<Home/>}/>
+         <Route index path="/" element={<Home/>}/>
          <Route path="contact" element={<Contact/>}/>
          <Route path="about" element={<About/>}/>
          <Route path="propertylist" element={<PropertyList/>}/>

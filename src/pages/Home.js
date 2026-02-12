@@ -22,16 +22,6 @@ import "bootstrap-icons/font/bootstrap-icons.css";
 
 
 const Home = () => {
-  const propertyTypes = [
-    { name: "Apartment", img: apartment },
-    { name: "Villa", img: villa },
-    { name: "Home", img: homeImg },
-    { name: "Office", img: office },
-    { name: "Building", img: building },
-    { name: "Townhouse", img: townhouse },
-    { name: "Shop", img: shop },
-    { name: "Garage", img: garage },
-  ];
 
   const propertyList = [
     { tag: "For Sell", type: "Apartment", img: house1 },

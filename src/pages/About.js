@@ -1,15 +1,7 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import house1 from "./images/carousel-1.jpg";
-import house2 from "./images/carousel-2.jpg";
 import aboutImg from "./images/about.jpg";
-import apartment from "./images/apartment.png";
-import villa from "./images/villa.png";
-import homeImg from "./images/home.png";
-import office from "./images/office.png";
-import building from "./images/building.png";
-import townhouse from "./images/townhouse.png";
-import shop from "./images/shop.png";
-import garage from "./images/garage.png";
+
 
 const About = () => {
   return (

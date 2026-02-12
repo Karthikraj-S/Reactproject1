@@ -1,0 +1,42 @@
+
+@media (max-width: 991px) {
+
+  .navbar-collapse {
+    position: static !important;
+    transform: none !important;
+    left: auto !important;
+    width: 100%;
+    background-color: #ffffff;
+    padding: 15px 0;
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .navbar-nav {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .navbar-nav .nav-item {
+    width: 100%;
+  }
+
+  .navbar-nav .nav-link {
+    display: block;
+    padding: 10px;
+  }
+
+  .dropdown-menu {
+    text-align: center;
+    border-radius: 8px;
+  }
+
+  .btn.btn-success {
+    width: 100%;
+    margin-top: 15px;
+  }
+
+  .navbar-brand {
+    margin: auto;
+  }
+}

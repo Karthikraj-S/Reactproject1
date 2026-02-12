@@ -1,7 +1,5 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import house1 from "./images/carousel-1.jpg";
-import house2 from "./images/carousel-2.jpg";
-import aboutImg from "./images/about.jpg";
 import apartment from "./images/apartment.png";
 import villa from "./images/villa.png";
 import homeImg from "./images/home.png";
